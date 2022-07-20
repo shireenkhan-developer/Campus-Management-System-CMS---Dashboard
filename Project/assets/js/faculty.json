@@ -1,0 +1,58 @@
+[
+        {
+           "name":"Engr. Asim Dilawar Bakhshi",
+           "research":"Digital Signal",
+           "publications":["IoTBoT-IDS: A novel statistical learning-enabled botnet detection framework for protecting networks of smart cities","Novel Deep Learning-Enabled LSTM Autoencoder Architecture for Discovering Anomalous Events From Intelligent Transportation Systems"],
+           "awards_and_honours":"Gold Medalist"
+        },
+      
+        {
+            "name":"Dr. Naima Altaf",
+            "research":"Recommender system/distributed system and Data Mining",
+            "publications":["Contextual recommender system for E-commerce applications","Enhanced Metamorphic Techniques-A Case Study Against Havex Malware"],
+            "awards_and_honours":"Silver Medal"
+         },
+         {
+            "name":"Dr. Zaki Murtaza",
+            "research":"PARALLEL COMPUTING",
+            "publications":["Robust, Secure, and Adaptive Trust-Oriented Service Selection in IoT-Based Smart Buildings"," Delay Reduction Through Optimal Controller Placement to Boost Scalability in an SDDC"],
+            "awards_and_honours":"lead medal"
+         },
+         {
+            "name":"Athar Mohsin",
+            "research":"none",
+            "publications":["",""],
+            "awards_and_honours":"nickel medal"
+         },
+         {
+            "name":"Dr. Yawar Bangash Abbasi",
+            "research":"SOFTWARE DEFINED NETWORKING",
+            "publications":["Application Threats to Exploit Northbound Interface Vulnerabilities in Software Defined Networks"," ALAM: Anonymous Lightweight Authentication Mechanism for SDN Enabled Smart Homes"],
+            "awards_and_honours":"bronze medal"
+         },
+         {
+            "name":"Dr. Saddaf Rubab",
+            "research":"BIG DATA AND DISTRIBUTED COMPUTING",
+            "publications":["Hemodynamic Response Detection Using Integrated EEG-fNIRS-VPA for BCI","Forensic Analysis of Social Networking Applications on an Android Smartphone"],
+            "awards_and_honours":"iron medal"
+         },
+         {
+            "name":"Kabeer Ahmed",
+            "research":"WIRELESS MULTIMEDIA SENSOR NETWORKS",
+            "publications":["Comparative study of centralized cooperative spectrum sensing in cognitive radio networks","Compact and User-Friendly Representation of IPv6 Addressing Approach and Masking"],
+            "awards_and_honours":"brass medal"
+         },
+         {
+            "name":"Marium Hida",
+            "research":"Software Engineering",
+            "publications":["",""],
+            "awards_and_honours":"Tin medal"
+         },
+         {
+            "name":"Engr. Sehrish Firdous",
+            "research":"MS Software Engineering",
+            "publications":["",""],
+            "awards_and_honours":"Platinum medal"
+         }
+
+ ]

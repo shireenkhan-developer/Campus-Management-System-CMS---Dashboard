@@ -1,0 +1,58 @@
+[
+  
+    { 
+        "name":"Maha",
+        "semester":"5",
+        "year":"3rd",
+        "cr":"25",
+        "cgpa":"3",
+        "academic_standings":"outstanding",
+        "progress":"good",
+        "courses": [{"name":"Operating Systems","instructor":"mobeena shehzad","cr":"3","progress":"50%"},{"name":"Professional Ethics","instructor":"Sara yaqoob","cr":"3","progress":"30%"},{"name":"Software Design & Arhitecture","instructor":"Dr.Yawar abbas","cr":"4","progress":"90%"},{"name":"Web Engineering","instructor":"Naima Altaf","cr":"4","progress":"70%"},{"name":"Technical Writing","instructor":"Uzma Ehsan","cr":"3","progress":"80%"}],
+        "id":"maftab",
+        "pswd":"1122",
+        "attendance":["80","50","33","44","55","66"]
+    },
+    { 
+        "name":"Shireen",
+        "semester":"6",
+        "year":"3rd",
+        "cr":"60",
+        "cgpa":"3.78",
+        "academic_standings":"Excellent",
+        "progress":"good",
+        "courses": [{"name":"Data Structures","instructor":"Zaki Murtaza","cr":"3","progress":"60%"},{"name":"OS Lab","instructor":"Marium Hida","cr":"2","progress":"65%"},{"name":"OOP","instructor":"Naima Altaf","cr":"4","progress":"80%"},{"name":"Database Design","instructor":"Ayesha Naseer","cr":"3","progress":"40%"},{"name":"Communication Skills","instructor":"Uzma Ehsan","cr":"2","progress":"70%"}],
+        "id":"skhan",
+        "pswd":"2233",
+        "attendance":[80,100,93,99,85,76]
+    },
+    { 
+        "name":"Maheen",
+        "semester":"4",
+        "year":"2nd",
+        "cr":"80",
+        "cgpa":"3.82",
+        "academic_standings":"Outstanding",
+        "progress":"good",
+        "courses": [{"name":"Pak Studies","instructor":"Maj Khurshid","cr":"3","progress":"50%"},{"name":"HRM","instructor":"Col. Kafayat Ullah","cr":"3","progress":"70%"},{"name":"FOP","instructor":"Muqeem shehri","cr":"3","progress":"70%"},{"name":"Islamiat","instructor":"Sana Abbasi","cr":"2","progress":"60%"},{"name":"Numerical Methods","instructor":"Maria Zia","cr":"3","progress":"30%"}],
+        "id":"mmohiuddin",
+        "pswd":"2244",
+        "attendance":[80,50,83,94,75,100]
+    },
+    { 
+        "name":"Shizrah",
+        "semester":"5",
+        "year":"3rd",
+        "cr":"70",
+        "cgpa":"3.92",
+        "academic_standings":"Outstanding",
+        "progress":"good",
+        "courses": [{"name":"Automata","instructor":"Ayesha Naseer","cr":"3","progress":"60%"},{"name":"Workshop Practice","instructor":"Kabeer Ahmed","cr":"3","progress":"90%"},{"name":"SRE","instructor":"Maj. Wajahat Sultan","cr":"3","progress":"80%"},{"name":"Computer Networks","instructor":"Yawar Abbas","cr":"4","progress":"75%"},{"name":"Information Security","instructor":"Zaki Murtaza","cr":"3","progress":"50%"}],
+        "id":"shizkhan",
+        "pswd":"2255",
+        "attendance":[85,80,93,100,86,75]
+    }
+   
+]
+ 
+
